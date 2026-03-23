@@ -74,7 +74,6 @@
     *   `LiquidCrystal I2C` (by Frank de Brabander)
     *   `GyverDS3231Min` (by AlexGyver)
     *   `EncButton` (by AlexGyver)
-    *   `GyverTimers` (by AlexGyver)
     *   `GyverPWM` (by AlexGyver)
 3.  Подключите Arduino Nano к компьютеру через USB.
 4.  В Arduino IDE выберите настройки:
