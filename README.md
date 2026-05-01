@@ -71,10 +71,10 @@
 
 1.  Установите Arduino IDE на ваш компьютер.
 2.  Установите необходимые библиотеки. Для этого откройте менеджер библиотек (Скетч -> Подключить библиотеку -> Управлять библиотеками...) и найдите/установите следующие библиотеки:
-    *   `LiquidCrystal I2C` (by Frank de Brabander)
-    *   `GyverDS3231Min` (by AlexGyver)
-    *   `EncButton` (by AlexGyver)
-    *   `GyverPWM` (by AlexGyver)
+    *   `LiquidCrystal I2C v.2.0.0` (by Frank de Brabander)
+    *   `GyverDS3231Min v.1.2.0` (by AlexGyver)
+    *   `EncButton v.3.7.4` (by AlexGyver)
+    *   `GyverPWM v.1.6.1` (by AlexGyver)
 3.  Подключите Arduino Nano к компьютеру через USB.
 4.  В Arduino IDE выберите настройки:
     *   **Плата:** Инструменты -> Плата -> Arduino Nano
